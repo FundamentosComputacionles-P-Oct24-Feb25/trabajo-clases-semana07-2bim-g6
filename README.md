@@ -1,6 +1,11 @@
 # Trabajo clases 07
 ## Segundo bimestre
 
+### Abraham Ayala 
+### Jorge Granda 
+### Dalton Flores
+
+
 ## Áreas de las Ciencias de la Computación
 
 ### Trabajo Grupal
